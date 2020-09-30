@@ -7,6 +7,7 @@ Django-live-profiler is a low-overhead data access and code profiler for Django-
 ------------
 Installation
 ------------
+For complete installation of django-live-profiler : https://pypi.org/project/django-live-profiler/
 1. Run `pip install django-live-profiler`
 2. Add `'profiler'` app to `INSTALLED_APPS` 
 3. Add `'profiler.middleware.ProfilerMiddleware'` to `MIDDLEWARE_CLASSES`
